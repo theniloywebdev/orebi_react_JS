@@ -1,8 +1,9 @@
 import React from 'react'
+import ShopPage from '../ShopPage'
 
 const Shop = () => {
   return (
-    <div>Shop</div>
+    <ShopPage/>
   )
 }
 
